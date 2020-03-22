@@ -64,7 +64,7 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Touch
 PRODUCT_PACKAGES += \
-    vendor.mokee.touch@1.0-service.libra
+    vendor.lineage.touch@1.0-service.libra
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
